@@ -127,7 +127,7 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 1. 打开 [https://ui.xiaozhusho.top](https://ui.xiaozhusho.top) 注册账号；
 2. **微信扫码添加小助手**，备注 **「UI-Flow 试用」**；
 3. 小助手人工发放试用积分，登录后在充值页即可看到。
-<img width="406" height="1198" alt="微信图片_20260924172408_23_90" src="https://github.com/user-attachments/assets/5f7eb41c-bd90-4f81-a8b6-b2cad596458f" />
+<img width="403" height="599" alt="微信图片_20260924172408_23_90" src="https://github.com/user-attachments/assets/5f7eb41c-bd90-4f81-a8b6-b2cad596458f" />
 
 <div align="center">
   
@@ -151,20 +151,26 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 消耗明细：初稿 5 积分 + 拆解 2 积分 + 每个素材 3 积分。以一套 10 个素材的页面为例，全流程约 **37 积分（不到 2 元）**。
 ## 效果
 网页修改前：
-<img width="2060" height="1273" alt="a3895abd27b4458780e3683ea93003ad" src="https://github.com/user-attachments/assets/61f05bc9-3283-4a65-9049-90816cbec09c" />
+<img width="1280" height="636" alt="a3895abd27b4458780e3683ea93003ad" src="https://github.com/user-attachments/assets/61f05bc9-3283-4a65-9049-90816cbec09c" />
 
-<img width="2060" height="1273" alt="c223e0c6d99e46f88ce8f0e4b8cfb8d5" src="https://github.com/user-attachments/assets/64cb4d7b-2f07-495d-8639-a8e86edbd440" />
-<img width="2060" height="1273" alt="2aed680bac5c490dae9f239d9ba5f492" src="https://github.com/user-attachments/assets/e5deb262-3b92-4f0d-84d0-51cc0439b6b9" />
+<img width="1280" height="636" alt="c223e0c6d99e46f88ce8f0e4b8cfb8d5" src="https://github.com/user-attachments/assets/64cb4d7b-2f07-495d-8639-a8e86edbd440" />
+<img width="1280" height="636" alt="2aed680bac5c490dae9f239d9ba5f492" src="https://github.com/user-attachments/assets/e5deb262-3b92-4f0d-84d0-51cc0439b6b9" />
 
-<img width="2060" height="1273" alt="f62353904fda439a8613f074ed56b62e" src="https://github.com/user-attachments/assets/d568d423-0ec9-4d32-9772-030f08c477c9" />
+<img width="1280" height="636" alt="f62353904fda439a8613f074ed56b62e" src="https://github.com/user-attachments/assets/d568d423-0ec9-4d32-9772-030f08c477c9" />
 网页修改后：
 
-<img width="2560" height="1272" alt="531db891edc646a4ad57bdf0019b7c41" src="https://github.com/user-attachments/assets/26da2257-04af-4270-a161-f34013863f8d" />
+<img width="1280" height="636" alt="531db891edc646a4ad57bdf0019b7c41" src="https://github.com/user-attachments/assets/26da2257-04af-4270-a161-f34013863f8d" />
 
-<img width="2560" height="1272" alt="0d46674a265d4a38a7ac232a5308fac6" src="https://github.com/user-attachments/assets/c73159aa-adbf-4ca2-a183-76f48ced488f" />
-<img width="2560" height="1272" alt="09f3a06a5f2b43d0b6de8a3c5b8f1671" src="https://github.com/user-attachments/assets/ff6239f6-a7ae-4303-9f1c-949e0cc50507" />
-<img width="2560" height="1272" alt="6ef68d06cc1a447f97a52ee4e20f7f77" src="https://github.com/user-attachments/assets/4e56d037-982b-4285-9041-1c20fe73f144" />
+<img width="1280" height="636" alt="0d46674a265d4a38a7ac232a5308fac6" src="https://github.com/user-attachments/assets/c73159aa-adbf-4ca2-a183-76f48ced488f" />
+<img width="1280" height="636" alt="09f3a06a5f2b43d0b6de8a3c5b8f1671" src="https://github.com/user-attachments/assets/ff6239f6-a7ae-4303-9f1c-949e0cc50507" />
+<img width="1280" height="636" alt="6ef68d06cc1a447f97a52ee4e20f7f77" src="https://github.com/user-attachments/assets/4e56d037-982b-4285-9041-1c20fe73f144" />
 
+小程序修改前：
+
+<img width="411" height="843" alt="ed1aa449c0464eaf9973573ec2451b09" src="https://github.com/user-attachments/assets/d7b8451a-78d6-413a-8f8b-e2bc310dec6a" />
+小程序修改后：
+
+<img width="411" height="843" alt="13f2438bd5154a04baa3e578a4f246d9" src="https://github.com/user-attachments/assets/5a4728d2-e59a-47fa-a401-8a40c834c3a6" />
 
 ## ❓ FAQ
 
