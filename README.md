@@ -127,7 +127,7 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 1. 打开 [https://ui.xiaozhusho.top](https://ui.xiaozhusho.top) 注册账号；
 2. **微信扫码添加小助手**，备注 **「UI-Flow 试用」**；
 3. 小助手人工发放试用积分，登录后在充值页即可看到。
-<img width="806" height="1198" alt="微信图片_20260924172408_23_90" src="https://github.com/user-attachments/assets/5f7eb41c-bd90-4f81-a8b6-b2cad596458f" />
+<img width="406" height="1198" alt="微信图片_20260924172408_23_90" src="https://github.com/user-attachments/assets/5f7eb41c-bd90-4f81-a8b6-b2cad596458f" />
 
 <div align="center">
   
@@ -159,7 +159,11 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 <img width="2060" height="1273" alt="f62353904fda439a8613f074ed56b62e" src="https://github.com/user-attachments/assets/d568d423-0ec9-4d32-9772-030f08c477c9" />
 网页修改后：
 
+<img width="2560" height="1272" alt="531db891edc646a4ad57bdf0019b7c41" src="https://github.com/user-attachments/assets/26da2257-04af-4270-a161-f34013863f8d" />
 
+<img width="2560" height="1272" alt="0d46674a265d4a38a7ac232a5308fac6" src="https://github.com/user-attachments/assets/c73159aa-adbf-4ca2-a183-76f48ced488f" />
+<img width="2560" height="1272" alt="09f3a06a5f2b43d0b6de8a3c5b8f1671" src="https://github.com/user-attachments/assets/ff6239f6-a7ae-4303-9f1c-949e0cc50507" />
+<img width="2560" height="1272" alt="6ef68d06cc1a447f97a52ee4e20f7f77" src="https://github.com/user-attachments/assets/4e56d037-982b-4285-9041-1c20fe73f144" />
 
 
 ## ❓ FAQ
