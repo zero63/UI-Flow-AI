@@ -194,10 +194,6 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 ZIP 打包，支持 1x/2x/3x 缩放与 PNG/WebP 格式，均不限量开放。
 </details>
 
-<details>
-<summary><b>技术栈是什么？</b></summary>
-后端 ThinkPHP 8 + MySQL + database 队列 + 阿里云 OSS；视觉模型采用阿里云百炼多模态模型（qwen-vl 系）。
-</details>
 
 ---
 
