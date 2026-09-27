@@ -42,8 +42,6 @@
   ④ 导出 ZIP ───────── 免费        1x/2x/3x · PNG/WebP
 ```
 
-<!-- 【配图 1：流水线界面截图，放 docs/images/pipeline.png】
-![UI-Flow 四步流水线](docs/images/pipeline.png)
 -->
 
 **几个较真的细节：**
@@ -51,9 +49,6 @@
 - **图标逐个拆分**：成组图标自动拆成 `sidebar_icon_dashboard.png`、`sidebar_icon_setting.png`……绝不生成没法用的"图标合集"；
 - **失败可单独重试**：每个素材是独立子任务，一个失败不影响整批；
 - **画布实时渲染**：批量生成时进入画布页，素材完成一个上屏一个。
-
-<!-- 【配图 2：透明底素材效果对比（左：手动抠图，右：AI 直出），放 docs/images/assets-compare.png】
-![素材对比](docs/images/assets-compare.png)
 -->
 
 ## 🚀 快速开始（网页版）
@@ -92,9 +87,6 @@ New-Item -ItemType Directory -Force ".trae\skills\ui-flow" | Out-Null; iwr "http
 > **"这是设计参考图，帮我还原成页面"**
 
 AI 会自动完成：调流水线生成初稿和素材 → 下载到本地 → 以初稿为基准改写你的页面代码。
-
-<!-- 【配图 3：编辑器里触发 Skill → 本地项目改造前后对比，放 docs/images/skill-demo.png】
-![技能演示](docs/images/skill-demo.png)
 -->
 
 ##开放API
@@ -135,12 +127,11 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 1. 打开 [https://ui.xiaozhusho.top](https://ui.xiaozhusho.top) 注册账号；
 2. **微信扫码添加小助手**，备注 **「UI-Flow 试用」**；
 3. 小助手人工发放试用积分，登录后在充值页即可看到。
+<img width="806" height="1198" alt="微信图片_20260924172408_23_90" src="https://github.com/user-attachments/assets/5f7eb41c-bd90-4f81-a8b6-b2cad596458f" />
 
 <div align="center">
   
-<!-- 【配图 4：微信二维码图片，建议命名 docs/images/wechat-assistant.jpg】
-<img src="docs/images/wechat-assistant.jpg" width="260" alt="扫码添加小助手，备注 UI-Flow 试用">
--->
+
 
 **扫码添加小助手 · 备注「UI-Flow 试用」**
 
@@ -158,6 +149,18 @@ curl -X POST https://ui.xiaozhusho.top/open/v1/pipeline/run \
 | 2000 积分 | ¥69 | 高频使用者更划算 |
 
 消耗明细：初稿 5 积分 + 拆解 2 积分 + 每个素材 3 积分。以一套 10 个素材的页面为例，全流程约 **37 积分（不到 2 元）**。
+## 效果
+网页修改前：
+<img width="2060" height="1273" alt="a3895abd27b4458780e3683ea93003ad" src="https://github.com/user-attachments/assets/61f05bc9-3283-4a65-9049-90816cbec09c" />
+
+<img width="2060" height="1273" alt="c223e0c6d99e46f88ce8f0e4b8cfb8d5" src="https://github.com/user-attachments/assets/64cb4d7b-2f07-495d-8639-a8e86edbd440" />
+<img width="2060" height="1273" alt="2aed680bac5c490dae9f239d9ba5f492" src="https://github.com/user-attachments/assets/e5deb262-3b92-4f0d-84d0-51cc0439b6b9" />
+
+<img width="2060" height="1273" alt="f62353904fda439a8613f074ed56b62e" src="https://github.com/user-attachments/assets/d568d423-0ec9-4d32-9772-030f08c477c9" />
+网页修改后：
+
+
+
 
 ## ❓ FAQ
 
